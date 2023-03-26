@@ -15,7 +15,7 @@ EasyBlackjack is a Single-Deck Blackjack hand generator and calculator.
 Use the package manager [Pip](https://pip.pypa.io/en/stable/) to install EasyBlackjack.
 
 ```console
-pip install EasyBlackjack
+$ pip install EasyBlackjack
 ```
 
 ## Usage
